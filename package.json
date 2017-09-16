@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/cleider87/restfull-nodejs/issues"
   },
-  "homepage": "https://github.com/cleider87/restfull-nodejs#readme"
+  "homepage": "https://github.com/cleider87/restfull-nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
 }
