@@ -1,3 +1,3 @@
-# API RESTfull javascript
-API RESTfull javascript
+# API RESTful javascript
+API RESTful javascript
 Node JS
