@@ -1,27 +1,27 @@
 {
-  "name": "restfull-nodejs",
+  "name": "restful-nodejs",
   "version": "0.0.1",
-  "description": "API RESTfull javascript",
+  "description": "API RESTful javascript",
   "main": "index.js",
   "scripts": {
     "test": "test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cleider87/restfull-nodejs.git"
+    "url": "git+https://github.com/cleider87/restful-nodejs.git"
   },
   "keywords": [
     "nodejs",
-    "restfull",
+    "restful",
     "rest",
     "api"
   ],
   "author": "Cleider Herrera <cleider87@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cleider87/restfull-nodejs/issues"
+    "url": "https://github.com/cleider87/restful-nodejs/issues"
   },
-  "homepage": "https://github.com/cleider87/restfull-nodejs#readme",
+  "homepage": "https://github.com/cleider87/restful-nodejs#readme",
   "dependencies": {
     "express": "^4.15.4",
     "mongoose": "^4.11.11"
